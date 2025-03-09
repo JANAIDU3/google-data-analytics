@@ -1,0 +1,187 @@
+# Course 2: Ask - Questions to Make Data-Driven Decisions
+
+## What You'll Learn
+
+- Explain how the problem-solving roadmap applies to typical analysis scenarios.
+- Discuss the use of data in the decision-making process.
+- Demonstrate the use of spreadsheets to complete basic tasks of the data analyst, including entering and organizing data.
+- Describe the key ideas associated with structured thinking.
+
+---
+
+## Problems Faced by Data Analysts
+
+Data analysts encounter a variety of problems that require them to use data to make informed decisions. Here are some common challenges:
+
+1. **Making Predictions** (e.g., Best advertising method)
+2. **Categorizing Things** (Organizing data into specific groups)
+3. **Spotting Something Unusual** (Identifying outliers or anomalies)
+4. **Identifying Themes** (Grouping categorized information into broader concepts)
+5. **Discovering Connections** (Finding similar challenges or patterns across data)
+6. **Finding Patterns** (Using historical data to identify trends)
+
+---
+
+## SMART Criteria for Problem Solving
+
+In order to effectively tackle problems, data analysts follow the SMART framework:
+
+- **S**pecific
+- **M**easurable
+- **A**ctionable
+- **R**elevant
+- **T**ime-bound
+
+This criteria helps make sure the problem is clearly defined and achievable.
+
+---
+
+## Types of Questions
+
+Data analysts need to ask the right types of questions to guide their analysis. These include:
+
+- **Heading**: Questions that steer people toward a particular response.
+- **Closed-ended**: Questions with yes/no answers.
+- **Vague**: Questions with no content or clear direction.
+
+---
+
+## Data-Informed Decision Making
+
+**Data-informed decision-making** explores different data sources to find out what they have in common. The goal is to base decisions on actual data rather than intuition alone.
+
+---
+
+## Algorithms in Data Analysis
+
+An **Algorithm** is a set of rules or processes to follow in order to complete a specific task. Algorithms are fundamental to automating decision-making processes.
+
+---
+
+## Types of Data
+
+### Quantitative Data
+- **Quantitative Data** includes measurable facts, numbers, and logic.
+  - These are specific and objective measures of numerical facts.
+
+### Qualitative Data
+- **Qualitative Data** deals with "why" questions and offers subjective or explanatory measures of qualities or characteristics.
+
+---
+
+## Reports vs Dashboards
+
+### Reports
+- A report is a static collection of data presented periodically to stakeholders.
+
+  **Pros:**
+  - Easy to design.
+  - Pre-designed and sorted data.
+  - High-level historical data.
+
+  **Cons:**
+  - Requires continual maintenance.
+  - Can be less appealing visually.
+  - Static (doesn't update in real-time).
+
+### Dashboards
+- A dashboard is a dynamic tool that monitors live, incoming data.
+
+  **Pros:**
+  - Dynamic, automatic, and interactive.
+  - More accessible to stakeholders.
+  - Requires low maintenance.
+
+  **Cons:**
+  - Labor-intensive design process.
+  - Can be confusing.
+  - Data may be unclean or incomplete.
+# Course Notes: Pivot Tables, Metrics, Errors, and More
+
+## Pivot Tables
+
+A **Pivot Table** is a data summarization tool used in data processing. It allows you to summarize, sort, recognize, group, count, or average data stored in a database.
+
+- **Transform**: Rows → Columns (pivoting data to see it in different perspectives)
+
+---
+
+## Metrics
+
+- A **Metric** is a quantifiable type of data that can be used for measurement.
+- **Metric Goal**: A measurable goal set by a company and evaluated using metrics.
+
+---
+
+## Revenue and ROI
+
+### Revenue
+- **Revenue** is defined as the number of sales multiplied by the sales price.
+
+### ROI (Return on Investment)
+- **ROI** is calculated as the net profit over a period of time divided by the cost of investment.
+- It’s a metric used to assess the profitability of an investment.
+
+---
+
+## Dashboards
+
+Dashboards are used to monitor and analyze data. There are different types of dashboards:
+
+- **Strategic Dashboard**: Focuses on high-level business metrics.
+- **Operational Dashboard**: Tracks day-to-day business operations.
+- **Analytical Dashboard**: Provides in-depth insights into data trends and patterns.
+
+---
+
+## Spreadsheet Tasks
+
+### Cell Reference
+- A **Cell Reference** refers to a single cell or a group of cells in a worksheet that can be used in a formula.
+
+### Organizing Data
+- You can use **Pivot Tables** to organize data by sorting, filtering, and summarizing information in meaningful ways.
+
+### Calculating Data
+- Formulas and **functions** are used to perform calculations in spreadsheets.
+
+---
+
+## Common Spreadsheet Errors
+
+### Errors You Might Encounter:
+
+- `#DIV/0!`: Occurs when dividing by zero.
+- `#EEEE!`: (Only in Google Sheets) Occurs when a formula can't be interpreted.
+- `#N/A`: Means the data is not found in the spreadsheet.
+- `#NAME?`: Formula or function name isn’t understood.
+- `#NUM!`: Formula or function calculation can’t be performed as specified.
+- `#VALUE!`: General error, indicating a problem with the formula or referenced cells.
+- `#REF!`: Formula is referencing a cell that no longer exists or has been deleted.
+
+---
+
+## Functions vs. Formulas
+
+- **Function**: A preset command that automatically performs a specific process or task using the data.
+- **Formula**: A set of instructions given to perform calculations.
+
+---
+
+## Problem Domain and Scope
+
+### Problem Domain
+- A **Problem Domain** refers to the specific area of analysis that encompasses every activity affecting or affected by the problem.
+
+### Scope & Work (SOW)
+- **Scope of Work (SOW)**: An agreed-upon framework outlining the work you’re going to perform on a project.
+
+### Statement of Work (SOW)
+- A **Statement of Work (SOW)** is a document that identifies the products and services a vendor or contractor will provide to an organization. It includes:
+  - **Objectives**
+  - **Guidelines**
+  - **Deliverables**
+  - **Schedule**
+  - **Cost**
+
+
